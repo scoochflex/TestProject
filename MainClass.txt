@@ -1,1 +1,3 @@
-I am a main class. Use me for main tasks. I have added some code here!
+I am a main class. Feature stuff inserted here. Use me for main tasks
+
+Feature code here
